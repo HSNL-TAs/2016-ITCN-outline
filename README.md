@@ -6,7 +6,7 @@
 | 9/19  | Lab 1: 網路線製作練習             |                      |
 | 10/3  | Lab 2: Wireshark                 | Deadline: 當場 Demo   |
 | 10/24 | Midterm Exam 1（1-4 week）       |                      |
-| 10/31 | Lab 3-1: Socket programming      |                      |
+| 10/31 | [Lab 3-1: Socket programming](github.com/HSNL-TAs/2016-ITCN-simple-time)      |                      |
 | 11/7  | Lab 3-2: Socket programming <br> (Spec Announcement)    | Deadline: 11/20 23:59     |
 | 11/21 | Final Project Spec Announcement | 網路流量頻寬控制程式     |
 | 12/5  | Midterm Exam 2（5-8 week）       |                      |
