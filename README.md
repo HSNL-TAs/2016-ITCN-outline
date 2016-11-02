@@ -8,6 +8,7 @@
 | 10/24 | Midterm Exam 1（1-4 week）       |                      |
 | 10/31 | [Lab 3-1: Socket programming](https://github.com/HSNL-TAs/2016-ITCN-simple-time)      | Deadline: 11/6 23:59 (Sun.) |
 | 11/7  | [Lab 3-2: Socket programming](https://github.com/HSNL-TAs/2016-ITCN-file-transfer) <br> (Spec Announcement)    | Deadline: 11/20 23:59 (Sun.) |
+| 11/14 | 老師上課 |      |
 | 11/21 | Final Project Spec Announcement | Submit Deadline: 1/15 23:59 (Sun.)     |
 | 12/5  | Midterm Exam 2（5-8 week）       |                      |
 | 12/19 | Final Project 設計報告一          |                      |
